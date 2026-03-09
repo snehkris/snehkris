@@ -4,6 +4,20 @@
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-pandit-53063633b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehkris4@gmail.com) 
+<p align="center">
+
+<em>
+
+This is <b>Sneha Pandit </b>, a 2rd year undergraduate from <a href="http://sittechno.org/"> <b>Alipurduar Government Engineering and Management College</b>, West Bengal</a>. <br>
+
+A <b> Electrical Undergrad </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning , Deep Learning , Computer Vision Research Enthusiast</b>;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
+
+
+
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>EXPLORING!!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
+</p>
  ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***Talking about Personal Stuffs:***
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="350">
