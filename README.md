@@ -8,7 +8,7 @@
 
 <em>
 
-This is <b>Sneha Pandit </b>, a 2rd year undergraduate from <a href="http://sittechno.org/"> <b>Alipurduar Government Engineering and Management College</b>, West Bengal</a>. <br>
+This is <b>Sneha Pandit </b>, a 2rd year undergraduate from <a href="https://agemc.ac.in/"> <b>Alipurduar Government Engineering and Management College</b>, West Bengal</a>. <br>
 
 A <b> Electrical Undergrad </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning , Deep Learning , Computer Vision Research Enthusiast</b>;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
 
